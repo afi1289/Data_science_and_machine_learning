@@ -1,2 +1,2 @@
 # Data Science and Machine Learning
-Notebooks from Mahine Learning lecture at University of Regensburg
+My complete implementation of assignments in Data Science & Machine Learning by University of Regensburg (Winter, 2020).
